@@ -4,6 +4,7 @@
 - [Building Blockchain Projects](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view)
 - [Mastering Blockchain](https://drive.google.com/file/d/0B4hhbFaItiPxUUF2YkVWaFRtZUU/view)
 - [Introducing Ethereum and Solidity](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view)
+- [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
 - [Blockchain Enabled Applications](https://drive.google.com/file/d/1ZezMu7ZJ2fpqdhK8TaLWeHh4O75Oepjb/view)
 - [Blockchain: The Hidden Gem of Data Networking](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view)
 - [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view)
