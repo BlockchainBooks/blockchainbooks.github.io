@@ -5,6 +5,7 @@
 - [Mastering Blockchain](https://drive.google.com/file/d/0B4hhbFaItiPxUUF2YkVWaFRtZUU/view)
 - [Blockchain Enabled Applications](https://drive.google.com/file/d/1ZezMu7ZJ2fpqdhK8TaLWeHh4O75Oepjb/view)
 - [Blockchain: The Hidden Gem of Data Networking](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view)
+- [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view)
 - [Bitcoin and Blockchain Security](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view)
 - [Blockchain For Dummies](https://drive.google.com/file/d/0B4hhbFaItiPxcDVjUGdxQ1dtM0E/view)
 - [Blockchain Basics: A Non-Technical Introduction in 25 Steps](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view)
