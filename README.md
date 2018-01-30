@@ -3,7 +3,7 @@
 - [Mastering Bitcoin: Programming the Open Blockchain, 2nd Edition (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEazVzZ2ZYcllCXzQ/view)
 - [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view)
 - [Mastering Blockchain (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxUUF2YkVWaFRtZUU/view)
-- [Blockchain: Blueprint For A New Economy (2015)](http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf)
+- [Blockchain: Blueprint for a New Economy (2015)](http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf)
 - [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view)
 - [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
 - [Bitcoin for the Befuddled (2014)](https://drive.google.com/file/d/0B81TNkQfgbpEdUNUWENFbmVrUWs/view)
