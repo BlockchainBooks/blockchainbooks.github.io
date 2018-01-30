@@ -5,7 +5,7 @@
 - [Mastering Blockchain (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxUUF2YkVWaFRtZUU/view)
 - [Blockchain: Blueprint for a New Economy (2015)](http://w2.blockchain-tec.net/blockchain/blockchain-by-melanie-swan.pdf)
 - [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view)
-- [Solidity Documentation](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf)
+- [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf)
 - [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
 - [Bitcoin for the Befuddled (2014)](https://drive.google.com/file/d/0B81TNkQfgbpEdUNUWENFbmVrUWs/view)
 - [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
