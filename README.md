@@ -7,6 +7,7 @@
 - [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view)
 - [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf)
 - [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
+- [Bitcoin for Nonmathematicians (2016)](https://drive.google.com/file/d/1-QXv47ldCCxMWRijhEa8NWjG_FmohVeF/view)
 - [Bitcoin for the Befuddled (2014)](https://drive.google.com/file/d/0B81TNkQfgbpEdUNUWENFbmVrUWs/view)
 - [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
 - [Blockchain Enabled Applications (2017)](https://drive.google.com/file/d/1ZezMu7ZJ2fpqdhK8TaLWeHh4O75Oepjb/view)
