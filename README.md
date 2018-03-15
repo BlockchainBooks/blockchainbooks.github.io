@@ -5,6 +5,7 @@
 - [Mastering Blockchain (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxUUF2YkVWaFRtZUU/view)
 - [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view)
 - [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view)
+- [Blockchain: A Practical Guide to Developing (2018)](https://drive.google.com/file/d/1qgsVLHOf8lEZYEpd5UDfbOBSktgArSCY/view)
 - [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf)
 - [web3.js Documentation (2018)](https://media.readthedocs.org/pdf/web3js/1.0/web3js.pdf)
 - [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide)
