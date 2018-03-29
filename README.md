@@ -1,4 +1,4 @@
-## Blockchain Books
+# Blockchain Books
 
 - [Mastering Bitcoin: Programming the Open Blockchain, 2nd Edition (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEazVzZ2ZYcllCXzQ/view)
 - [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view)
