@@ -17,6 +17,9 @@
   - [web3.js Documentation (2018)](https://media.readthedocs.org/pdf/web3js/1.0/web3js.pdf)
   - [Hyperledger Fabric Documentation (2018)](https://media.readthedocs.org/pdf/hyperledger-fabric/latest/hyperledger-fabric.pdf)
 
+- Security
+  - [Bitcoin and Blockchain Security (2016)](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view)
+
 - More Books
   - [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view)
   - [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
@@ -25,6 +28,5 @@
   - [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
   - [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view)
   - [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view)
-  - [Bitcoin and Blockchain Security (2016)](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view)
   - [Blockchain For Dummies (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxcDVjUGdxQ1dtM0E/view)
   - [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view)
