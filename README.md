@@ -6,16 +6,19 @@
   - [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view)
   - [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide)
 
+
 - Decentralized Applications
   - [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view)
   - [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view)
   - [Blockchain: A Practical Guide to Developing (2018)](https://drive.google.com/file/d/1qgsVLHOf8lEZYEpd5UDfbOBSktgArSCY/view)
   - [Blockchain Enabled Applications (2017)](https://drive.google.com/file/d/1ZezMu7ZJ2fpqdhK8TaLWeHh4O75Oepjb/view)
 
+
 - Documentations
   - [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf)
   - [web3.js Documentation (2018)](https://media.readthedocs.org/pdf/web3js/1.0/web3js.pdf)
   - [Hyperledger Fabric Documentation (2018)](https://media.readthedocs.org/pdf/hyperledger-fabric/latest/hyperledger-fabric.pdf)
+
 
 - More Books
   - [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view)
