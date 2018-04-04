@@ -1,4 +1,5 @@
-# blockchainbooks.github.io
+# Awesome Blockchain Books [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 * [Blockchain Books](#blockchain-books)
 * [Decentralized Applications](#decentralized-applications)
