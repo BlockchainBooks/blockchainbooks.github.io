@@ -131,10 +131,13 @@ Technology is changing money and this book looks at where it might be taking us.
 
 This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking’ series of eBooks. In this series, we will thoroughly define blockchain and see it in action, we’ll see how ‘blockchain’ could be leveraged to enhance the technologies that exist in the Data Networking: i.e. LAN and WAN technologies.
 
+### [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view) *Download*
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51gAisJ-ZNL.jpg" width="120px"/>
+
+With the rise of bitcoin and blockchain technology, investors can capitalize on the greatest investment opportunity since the Internet. Bitcoin was the first cryptoasset, but today there are over 800 and counting, including ether, ripple, litecoin, monero, and more. This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world―and how to invest in these emerging assets to secure your financial future.
 
 
 
-
-  - [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view)
   - [Blockchain For Dummies (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxcDVjUGdxQ1dtM0E/view)
   - [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view)
