@@ -3,6 +3,7 @@
 * [Blockchain Books](#blockchain-books)
 * [Decentralized Applications](#decentralized-applications)
 * [Documentations](#documentations)
+* [More Books](#more-books)
 
 **Blockchain Books**
 ---
@@ -62,11 +63,16 @@ Work with blockchain and understand its potential application beyond cryptocurre
 **Documentations**
 ---
 
-- Decentralized Applications
-  - [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view)
-  - [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view)
-  - [Blockchain: A Practical Guide to Developing (2018)](https://drive.google.com/file/d/1qgsVLHOf8lEZYEpd5UDfbOBSktgArSCY/view)
-  - [Blockchain Enabled Applications (2017)](https://drive.google.com/file/d/1ZezMu7ZJ2fpqdhK8TaLWeHh4O75Oepjb/view)
+### [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf) *Download*
+
+<img src="http://solidity.readthedocs.io/en/latest/_images/logo.svg" width="120px"/>
+
+Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM). Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features. As you will see, it is possible to create contracts for voting, crowdfunding, blind auctions, multi-signature wallets and more.
+
+**More Books**
+---
+
+
 
 - Documentations
   - [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf)
