@@ -24,6 +24,18 @@ Blockchain is a distributed database that enables permanent, transparent, and se
 
 Bitcoin is starting to come into its own as a digital currency, but the blockchain technology behind it could prove to be much more significant. This book takes you beyond the currency ("Blockchain 1.0") and smart contracts ("Blockchain 2.0") to demonstrate how the blockchain is in position to become the fifth disruptive computing paradigm after mainframes, PCs, the Internet, and mobile/social networking.
 
+### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide)
+
+<img src="https://tr1.cbsistatic.com/hub/i/2018/03/01/effabfe7-dea5-4e50-a4da-afd7e10a0e76/wallpaper-frontier.jpg" width="120px"/>
+
+The Frontier is the first live release of the Ethereum network. As such you are entering uncharted territory and you are invited to test the grounds and explore. There is a lot of danger, there may still be undiscovered traps, there may be ravaging bands of pirates waiting to attack you, but there also is vast room for opportunities.
+
+
+
+
+
+
+
 **Decentralized Applications**
 ---
 
