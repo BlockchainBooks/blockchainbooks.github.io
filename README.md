@@ -113,8 +113,14 @@ This book answers the questions about "What does it mean to mine a cryptocurrenc
 
 It's thoughtless to start using something you don't trust. It's difficult to start trusting something you don't understand. Bitcoin for Nonmathematicians contains answers to the following questions: how bitcoin is different from other payment systems, and why we can trust cryptocurrencies. The book compares bitcoin with its predecessors and competitors, and demonstrates the benefits of cryptocurrency over any other existing methods of payments. Bitcoin for Nonmathematicians starts from overview of the evolution of payment systems from gold and paper money to payment cards to cryptocurrencies, and ends up with explaining the fundamentals of security and privacy of crypto payments by explaining the details of cryptography behind bitcoin in layman's terms.
 
+### [Bitcoin for the Befuddled (2014)](https://drive.google.com/file/d/0B81TNkQfgbpEdUNUWENFbmVrUWs/view) *Download*
 
-  - [Bitcoin for Nonmathematicians (2016)](https://drive.google.com/file/d/1-QXv47ldCCxMWRijhEa8NWjG_FmohVeF/view)
+<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/bitcoin_cover_front-new.png" width="120px"/>
+
+Unless you’ve been living under a rock for the last couple of years, you’ve probably heard of Bitcoin—the game-changing digital currency used by millions worldwide. But Bitcoin isn't just another way to buy stuff. It’s an anonymous, revolutionary, cryptographically secure currency that functions without the oversight of a central authority or government. If you want to get into the Bitcoin game but find yourself a little confused, Bitcoin for the ­Befuddled may be just what you’re looking for. Learn what Bitcoin is; how it works; and how to acquire, store, and spend bitcoins safely and securely.
+
+
+
   - [Bitcoin for the Befuddled (2014)](https://drive.google.com/file/d/0B81TNkQfgbpEdUNUWENFbmVrUWs/view)
   - [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
   - [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view)
