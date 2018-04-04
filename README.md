@@ -2,6 +2,7 @@
 
 * [Blockchain Books](#blockchain-books)
 * [Decentralized Applications](#decentralized-applications)
+* [Documentations](#documentations)
 
 **Blockchain Books**
 ---
@@ -24,20 +25,26 @@ Blockchain is a distributed database that enables permanent, transparent, and se
 
 Bitcoin is starting to come into its own as a digital currency, but the blockchain technology behind it could prove to be much more significant. This book takes you beyond the currency ("Blockchain 1.0") and smart contracts ("Blockchain 2.0") to demonstrate how the blockchain is in position to become the fifth disruptive computing paradigm after mainframes, PCs, the Internet, and mobile/social networking.
 
-### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide)
+### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide) *Download*
 
 <img src="https://tr1.cbsistatic.com/hub/i/2018/03/01/effabfe7-dea5-4e50-a4da-afd7e10a0e76/wallpaper-frontier.jpg" width="120px"/>
 
 The Frontier is the first live release of the Ethereum network. As such you are entering uncharted territory and you are invited to test the grounds and explore. There is a lot of danger, there may still be undiscovered traps, there may be ravaging bands of pirates waiting to attack you, but there also is vast room for opportunities.
 
 
-
-
-
-
-
 **Decentralized Applications**
 ---
+
+### [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view) *Download*
+
+<img src="https://images.springer.com/sgw/books/medium/9781484225349.jpg" width="120px"/>
+
+Learn how to use Solidity and the Ethereum project – second only to Bitcoin in market capitalization. Blockchain protocols are taking the world by storm, and the Ethereum project, with its Turing-complete scripting language Solidity, has rapidly become a front-runner. This book presents the blockchain phenomenon in context; then situates Ethereum in a world pioneered by Bitcoin.
+
+
+**Documentations**
+---
+
 
 - Blockchain
   - [Mastering Bitcoin: Programming the Open Blockchain, 2nd Edition (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEazVzZ2ZYcllCXzQ/view)
