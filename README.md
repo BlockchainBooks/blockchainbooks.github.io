@@ -2,9 +2,10 @@
 
 * [Blockchain Books](#blockchain-books)
 * [Decentralized Applications](#decentralized-applications)
-* [Documentations](#documentations)
 * [Security Books](#security-books)
 * [Bitcoin Books](#bitcoin-books)
+* [Documentations](#documentations)
+
 
 **Blockchain Books**
 ---
@@ -27,11 +28,17 @@ Blockchain is a distributed database that enables permanent, transparent, and se
 
 Bitcoin is starting to come into its own as a digital currency, but the blockchain technology behind it could prove to be much more significant. This book takes you beyond the currency ("Blockchain 1.0") and smart contracts ("Blockchain 2.0") to demonstrate how the blockchain is in position to become the fifth disruptive computing paradigm after mainframes, PCs, the Internet, and mobile/social networking.
 
-### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide) *Download*
+### [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view) *Download*
 
-<img src="https://tr1.cbsistatic.com/hub/i/2018/03/01/effabfe7-dea5-4e50-a4da-afd7e10a0e76/wallpaper-frontier.jpg" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51BaGHVPe5L.jpg" width="120px"/>
 
-The Frontier is the first live release of the Ethereum network. As such you are entering uncharted territory and you are invited to test the grounds and explore. There is a lot of danger, there may still be undiscovered traps, there may be ravaging bands of pirates waiting to attack you, but there also is vast room for opportunities.
+In 25 concise steps, you will learn the basics of blockchain technology. No mathematical formulas, program code, or computer science jargon are used. No previous knowledge in computer science, mathematics, programming, or cryptography is required. Terminology is explained through pictures, analogies, and metaphors. This book bridges the gap that exists between purely technical books about the blockchain and purely business-focused books. It does so by explaining both the technical concepts that make up the blockchain and their role in business-relevant applications.
+
+### [Blockchain For Dummies (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxcDVjUGdxQ1dtM0E/view) *Download*
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51V-lIDNbML.jpg" width="120px"/>
+
+Blockchain is the technology behind Bitcoin, the revolutionary 'virtual currency' that's changing the way people do business. While Bitcoin has enjoyed some well-deserved hype, Blockchain may be Bitcoin's most vital legacy. Blockchain For Dummies is the ideal starting place for business pros looking to gain a better understanding of what Blockchain is, how it can improve the integrity of their data, and how it can work to fundamentally change their business and enhance their data security.
 
 
 **Decentralized Applications**
@@ -61,26 +68,11 @@ This comprehensive guide delivers hands-on coverage of the development, validati
 
 Work with blockchain and understand its potential application beyond cryptocurrencies in the domains of healthcare, Internet of Things, finance, decentralized organizations, and open science. Featuring case studies and practical insights generated from a start-up spun off from the author’s own lab, this book covers a unique mix of topics not found in others and offers insight into how to overcome real hurdles that arise as the market and consumers grow accustomed to blockchain based start-ups.
 
-**Documentations**
----
+### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide) *Download*
 
-### [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf) *Download*
+<img src="https://tr1.cbsistatic.com/hub/i/2018/03/01/effabfe7-dea5-4e50-a4da-afd7e10a0e76/wallpaper-frontier.jpg" width="120px"/>
 
-<img src="https://solidity.readthedocs.io/en/latest/_images/logo.svg" width="120px"/>
-
-Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM). Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features. As you will see, it is possible to create contracts for voting, crowdfunding, blind auctions, multi-signature wallets and more.
-
-### [web3.js Documentation (2018)](https://media.readthedocs.org/pdf/web3js/1.0/web3js.pdf) *Download*
-
-<img src="https://www.ethereum.org/images/logos/ETHEREUM-LOGO_PORTRAIT_Black_small.png" width="120px"/>
-
-web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection. The following documentation will guide you through installing and running web3.js, as well as providing a API reference documentation with examples.
-
-### [Hyperledger Fabric Documentation (2018)](https://media.readthedocs.org/pdf/hyperledger-fabric/latest/hyperledger-fabric.pdf) *Download*
-
-<img src="https://hyperledger-fabric.readthedocs.io/en/latest/_images/hyperledger_fabric_logo_color.png" width="120px"/>
-
-Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability. It is designed to support pluggable implementations of different components, and accommodate the complexity and intricacies that exist across the economic ecosystem.
+The Frontier is the first live release of the Ethereum network. As such you are entering uncharted territory and you are invited to test the grounds and explore. There is a lot of danger, there may still be undiscovered traps, there may be ravaging bands of pirates waiting to attack you, but there also is vast room for opportunities.
 
 
 **Security Books**
@@ -97,6 +89,7 @@ There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors w
 <img src="https://i.pinimg.com/564x/22/de/f6/22def66817d0552b3b61dd2fe0282e3e.jpg" width="120px"/>
 
 Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work well, but only if you belong to the right audience. Many works throw non-experts into the deep end without a life vest. Others skip along the surface leaving non-beginners little of value for their time. The result is unsatisfying at best and dangerous at worst. Without the knowledge and confidence to manage your own money, you may entrust it to others - the very situation Bitcoin was created to overturn. All the while, these services gobble up financial secrets for unknown ends. Even if you have no bitcoin, ignorance of Bitcoin's technical underpinnings makes it hard to follow new developments and spot opportunities.
+
 
 **Bitcoin Books**
 ---
@@ -137,10 +130,24 @@ This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking
 
 With the rise of bitcoin and blockchain technology, investors can capitalize on the greatest investment opportunity since the Internet. Bitcoin was the first cryptoasset, but today there are over 800 and counting, including ether, ripple, litecoin, monero, and more. This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world―and how to invest in these emerging assets to secure your financial future.
 
-### [Blockchain For Dummies (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxcDVjUGdxQ1dtM0E/view) *Download*
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51V-lIDNbML.jpg" width="120px"/>
+**Documentations**
+---
 
-Blockchain is the technology behind Bitcoin, the revolutionary 'virtual currency' that's changing the way people do business. While Bitcoin has enjoyed some well-deserved hype, Blockchain may be Bitcoin's most vital legacy. Blockchain For Dummies is the ideal starting place for business pros looking to gain a better understanding of what Blockchain is, how it can improve the integrity of their data, and how it can work to fundamentally change their business and enhance their data security.
+### [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf) *Download*
 
-  - [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view)
+<img src="https://solidity.readthedocs.io/en/latest/_images/logo.svg" width="120px"/>
+
+Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM). Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features. As you will see, it is possible to create contracts for voting, crowdfunding, blind auctions, multi-signature wallets and more.
+
+### [web3.js Documentation (2018)](https://media.readthedocs.org/pdf/web3js/1.0/web3js.pdf) *Download*
+
+<img src="https://www.ethereum.org/images/logos/ETHEREUM-LOGO_PORTRAIT_Black_small.png" width="120px"/>
+
+web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection. The following documentation will guide you through installing and running web3.js, as well as providing a API reference documentation with examples.
+
+### [Hyperledger Fabric Documentation (2018)](https://media.readthedocs.org/pdf/hyperledger-fabric/latest/hyperledger-fabric.pdf) *Download*
+
+<img src="https://hyperledger-fabric.readthedocs.io/en/latest/_images/hyperledger_fabric_logo_color.png" width="120px"/>
+
+Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability. It is designed to support pluggable implementations of different components, and accommodate the complexity and intricacies that exist across the economic ecosystem.
