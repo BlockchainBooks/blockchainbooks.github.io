@@ -4,7 +4,7 @@
 * [Decentralized Applications](#decentralized-applications)
 * [Documentations](#documentations)
 * [Security Books](#security-books)
-* [More Books](#more-books)
+* [Bitcoin Books](#bitcoin-books)
 
 **Blockchain Books**
 ---
@@ -98,7 +98,7 @@ There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors w
 
 Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work well, but only if you belong to the right audience. Many works throw non-experts into the deep end without a life vest. Others skip along the surface leaving non-beginners little of value for their time. The result is unsatisfying at best and dangerous at worst. Without the knowledge and confidence to manage your own money, you may entrust it to others - the very situation Bitcoin was created to overturn. All the while, these services gobble up financial secrets for unknown ends. Even if you have no bitcoin, ignorance of Bitcoin's technical underpinnings makes it hard to follow new developments and spot opportunities.
 
-**More Books**
+**Bitcoin Books**
 ---
 
 ### [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view) *Download*
@@ -119,9 +119,13 @@ It's thoughtless to start using something you don't trust. It's difficult to sta
 
 Unless you’ve been living under a rock for the last couple of years, you’ve probably heard of Bitcoin—the game-changing digital currency used by millions worldwide. But Bitcoin isn't just another way to buy stuff. It’s an anonymous, revolutionary, cryptographically secure currency that functions without the oversight of a central authority or government. If you want to get into the Bitcoin game but find yourself a little confused, Bitcoin for the ­Befuddled may be just what you’re looking for. Learn what Bitcoin is; how it works; and how to acquire, store, and spend bitcoins safely and securely.
 
+### [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
+
+<img src="https://images.gr-assets.com/books/1497902570l/35480869.jpg" width="120px"/>
+
+Technology is changing money and this book looks at where it might be taking us. Technology has transformed money from physical objects to intangible information. With the arrival of smart cards, mobile phones and Bitcoin it has become easier than ever to create new forms of money. Crucially, money is also inextricably connected with our identities. Your card or phone is a security device that can identify you - and link information about you to your money.
 
 
-  - [Bitcoin for the Befuddled (2014)](https://drive.google.com/file/d/0B81TNkQfgbpEdUNUWENFbmVrUWs/view)
   - [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
   - [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view)
   - [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view)
