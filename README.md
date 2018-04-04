@@ -41,16 +41,14 @@ The Frontier is the first live release of the Ethereum network. As such you are 
 
 Learn how to use Solidity and the Ethereum project – second only to Bitcoin in market capitalization. Blockchain protocols are taking the world by storm, and the Ethereum project, with its Turing-complete scripting language Solidity, has rapidly become a front-runner. This book presents the blockchain phenomenon in context; then situates Ethereum in a world pioneered by Bitcoin.
 
+### [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/9781787122147.png" width="120px"/>
+
+Blockchain is a decentralized ledger that maintains a continuously growing list of data records that are secured from tampering and revision. Every user is allowed to connect to the network, send new transactions to it, verify transactions, and create new blocks, making it permission-less.
 
 **Documentations**
 ---
-
-
-- Blockchain
-  - [Mastering Bitcoin: Programming the Open Blockchain, 2nd Edition (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEazVzZ2ZYcllCXzQ/view)
-  - [Mastering Blockchain (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxUUF2YkVWaFRtZUU/view)
-  - [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view)
-  - [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide)
 
 - Decentralized Applications
   - [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view)
