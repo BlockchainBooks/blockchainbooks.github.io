@@ -137,7 +137,10 @@ This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking
 
 With the rise of bitcoin and blockchain technology, investors can capitalize on the greatest investment opportunity since the Internet. Bitcoin was the first cryptoasset, but today there are over 800 and counting, including ether, ripple, litecoin, monero, and more. This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world―and how to invest in these emerging assets to secure your financial future.
 
+### [Blockchain For Dummies (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxcDVjUGdxQ1dtM0E/view) *Download*
 
+<img src="https://images-na.ssl-images-amazon.com/images/I/51V-lIDNbML.jpg" width="120px"/>
 
-  - [Blockchain For Dummies (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxcDVjUGdxQ1dtM0E/view)
+Blockchain is the technology behind Bitcoin, the revolutionary 'virtual currency' that's changing the way people do business. While Bitcoin has enjoyed some well-deserved hype, Blockchain may be Bitcoin's most vital legacy. Blockchain For Dummies is the ideal starting place for business pros looking to gain a better understanding of what Blockchain is, how it can improve the integrity of their data, and how it can work to fundamentally change their business and enhance their data security.
+
   - [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view)
