@@ -1,11 +1,19 @@
 # blockchainbooks.github.io
 
+* [Blockchain Books](#blockchain-books)
+* [Decentralized Applications](#decentralized-applications)
+
+**Blockchain Books**
+---
+
 ### [Mastering Bitcoin: Programming the Open Blockchain, 2nd Edition (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEazVzZ2ZYcllCXzQ/view) *Download*
 
 <img src="https://covers.oreillystatic.com/images/0636920049524/lrg.jpg" width="120px"/>
 
 Join the technological revolution that’s taking the financial world by storm. Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the knowledge you need to participate in the internet of money. Whether you’re building the next killer app, investing in a startup, or simply curious about the technology, this revised and expanded second edition provides essential detail to get you started.
 
+**Decentralized Applications**
+---
 
 - Blockchain
   - [Mastering Bitcoin: Programming the Open Blockchain, 2nd Edition (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEazVzZ2ZYcllCXzQ/view)
