@@ -95,6 +95,13 @@ There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors w
 **More Books**
 ---
 
+### [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view) *Download*
+
+<img src="https://html2-f.scribdassets.com/5qehea33eo5ypl28/images/1-fd2573e944.jpg" width="120px"/>
+
+This book answers the questions about "What does it mean to mine a cryptocurrency such as Ethereum?", "How to mine with a graphics card (GPU)?", "How to start your GPU mining business with only $100", "How to deal with generated heat from a GPU mining rig and how to extend the life of the components?", and "How much money does a GPU mining rig make?". It helps you to "Choose the best GPU for mining Ethereum platform". In short it is "A complete step-by-step guide to the hardware and software for building a GPU mining rig."
+
+
   - [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view)
   - [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
   - [Bitcoin for Nonmathematicians (2016)](https://drive.google.com/file/d/1-QXv47ldCCxMWRijhEa8NWjG_FmohVeF/view)
