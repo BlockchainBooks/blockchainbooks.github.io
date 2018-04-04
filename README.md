@@ -47,6 +47,12 @@ Learn how to use Solidity and the Ethereum project – second only to Bitcoin in
 
 Blockchain is a decentralized ledger that maintains a continuously growing list of data records that are secured from tampering and revision. Every user is allowed to connect to the network, send new transactions to it, verify transactions, and create new blocks, making it permission-less.
 
+### [Blockchain: A Practical Guide to Developing (2018)](https://drive.google.com/file/d/1qgsVLHOf8lEZYEpd5UDfbOBSktgArSCY/view) *Download*
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51sNtLe8lFL.jpg" width="120px"/>
+
+This comprehensive guide delivers hands-on coverage of the development, validation, and deployment of Blockchain technology. Written by a pair of computing experts, the book demonstrates each topic through a start-to-finish Blockchain evolution. You will get full details on AWS risk and compliance as well as programming and architectural best practices.
+
 **Documentations**
 ---
 
