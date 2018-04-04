@@ -17,7 +17,13 @@ Join the technological revolution that’s taking the financial world by storm. 
 <img src="https://www.packtpub.com/sites/default/files/B05975_MockupCover.png" width="120px"/>
   
 Blockchain is a distributed database that enables permanent, transparent, and secure storage of data. The blockchain technology is the backbone of cryptocurrency – in fact, it's the shared public ledger upon which the entire Bitcoin network relies – and it's gaining popularity with people who work in finance, government, and the arts.
-  
+
+### [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view) *Download*
+
+<img src="https://covers.oreillystatic.com/images/0636920037040/lrg.jpg" width="120px"/>
+
+Bitcoin is starting to come into its own as a digital currency, but the blockchain technology behind it could prove to be much more significant. This book takes you beyond the currency ("Blockchain 1.0") and smart contracts ("Blockchain 2.0") to demonstrate how the blockchain is in position to become the fifth disruptive computing paradigm after mainframes, PCs, the Internet, and mobile/social networking.
+
 **Decentralized Applications**
 ---
 
