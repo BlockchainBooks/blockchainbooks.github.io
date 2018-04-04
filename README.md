@@ -3,6 +3,7 @@
 * [Blockchain Books](#blockchain-books)
 * [Decentralized Applications](#decentralized-applications)
 * [Documentations](#documentations)
+* [Security Books](#security-books)
 * [More Books](#more-books)
 
 **Blockchain Books**
@@ -82,20 +83,18 @@ web3.js is a collection of libraries which allow you to interact with a local or
 Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability. It is designed to support pluggable implementations of different components, and accommodate the complexity and intricacies that exist across the economic ecosystem.
 
 
+**Security Books**
+---
+
+### [Bitcoin and Blockchain Security (2016)](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view) *Download*
+
+<img src="http://us.artechhouse.com/Assets/ProductImages/0135_t.jpg" width="120px"/>
+
+There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors will help to answer some imperative questions about the security involved in this new digital asset and ledger. This comprehensive new resource presents a thorough overview and analysis of the security and privacy provisions of Bitcoin and its underlying blockchain clients. This book goes beyond the analysis of reported vulnerabilities of Bitcoin, evaluating a number of countermeasures to deter threats on the system. Readers are given concrete solutions and recommendations on the best practices to use when relying on Bitcoin as a payment method. This resource provides a clear explanation of assumptions governing the security of Bitcoin, including the scalability measures adopted in Bitcoin, privacy for clients, and the proper means of securing Bitcoin wallets. Readers learn how the security and privacy provisions of other blockchain technologies compare to Bitcoin and the security lessons learned after extensive research of Bitcoin since the inception of the currency.
+
 **More Books**
 ---
 
-
-
-- Documentations
-  - [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf)
-  - [web3.js Documentation (2018)](https://media.readthedocs.org/pdf/web3js/1.0/web3js.pdf)
-  - [Hyperledger Fabric Documentation (2018)](https://media.readthedocs.org/pdf/hyperledger-fabric/latest/hyperledger-fabric.pdf)
-
-- Security
-  - [Bitcoin and Blockchain Security (2016)](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view)
-
-- More Books
   - [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view)
   - [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
   - [Bitcoin for Nonmathematicians (2016)](https://drive.google.com/file/d/1-QXv47ldCCxMWRijhEa8NWjG_FmohVeF/view)
