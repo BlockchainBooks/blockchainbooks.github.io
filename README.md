@@ -108,7 +108,7 @@ It's thoughtless to start using something you don't trust. It's difficult to sta
 
 ### [Bitcoin for the Befuddled (2014)](https://drive.google.com/file/d/0B81TNkQfgbpEdUNUWENFbmVrUWs/view) *Download*
 
-<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/bitcoin_cover_front-new.png" width="120px"/>
+<img src="https://images.gr-assets.com/books/1418766871l/20578310.jpg" width="120px"/>
 
 Unless you’ve been living under a rock for the last couple of years, you’ve probably heard of Bitcoin—the game-changing digital currency used by millions worldwide. But Bitcoin isn't just another way to buy stuff. It’s an anonymous, revolutionary, cryptographically secure currency that functions without the oversight of a central authority or government. If you want to get into the Bitcoin game but find yourself a little confused, Bitcoin for the ­Befuddled may be just what you’re looking for. Learn what Bitcoin is; how it works; and how to acquire, store, and spend bitcoins safely and securely.
 
