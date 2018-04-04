@@ -92,6 +92,12 @@ Hyperledger Fabric is a platform for distributed ledger solutions, underpinned b
 
 There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors will help to answer some imperative questions about the security involved in this new digital asset and ledger. This comprehensive new resource presents a thorough overview and analysis of the security and privacy provisions of Bitcoin and its underlying blockchain clients. This book goes beyond the analysis of reported vulnerabilities of Bitcoin, evaluating a number of countermeasures to deter threats on the system. Readers are given concrete solutions and recommendations on the best practices to use when relying on Bitcoin as a payment method. This resource provides a clear explanation of assumptions governing the security of Bitcoin, including the scalability measures adopted in Bitcoin, privacy for clients, and the proper means of securing Bitcoin wallets. Readers learn how the security and privacy provisions of other blockchain technologies compare to Bitcoin and the security lessons learned after extensive research of Bitcoin since the inception of the currency.
 
+### [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view) *Download*
+
+<img src="https://i.pinimg.com/564x/22/de/f6/22def66817d0552b3b61dd2fe0282e3e.jpg" width="120px"/>
+
+Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work well, but only if you belong to the right audience. Many works throw non-experts into the deep end without a life vest. Others skip along the surface leaving non-beginners little of value for their time. The result is unsatisfying at best and dangerous at worst. Without the knowledge and confidence to manage your own money, you may entrust it to others - the very situation Bitcoin was created to overturn. All the while, these services gobble up financial secrets for unknown ends. Even if you have no bitcoin, ignorance of Bitcoin's technical underpinnings makes it hard to follow new developments and spot opportunities.
+
 **More Books**
 ---
 
@@ -101,14 +107,13 @@ There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors w
 
 This book answers the questions about "What does it mean to mine a cryptocurrency such as Ethereum?", "How to mine with a graphics card (GPU)?", "How to start your GPU mining business with only $100", "How to deal with generated heat from a GPU mining rig and how to extend the life of the components?", and "How much money does a GPU mining rig make?". It helps you to "Choose the best GPU for mining Ethereum platform". In short it is "A complete step-by-step guide to the hardware and software for building a GPU mining rig."
 
-### [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view) *Download*
+### [Bitcoin for Nonmathematicians (2016)](https://drive.google.com/file/d/1-QXv47ldCCxMWRijhEa8NWjG_FmohVeF/view) *Download*
 
-<img src="https://i.pinimg.com/564x/22/de/f6/22def66817d0552b3b61dd2fe0282e3e.jpg" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51rtZmdbHnL.jpg" width="120px"/>
 
-Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work well, but only if you belong to the right audience. Many works throw non-experts into the deep end without a life vest. Others skip along the surface leaving non-beginners little of value for their time. The result is unsatisfying at best and dangerous at worst. Without the knowledge and confidence to manage your own money, you may entrust it to others - the very situation Bitcoin was created to overturn. All the while, these services gobble up financial secrets for unknown ends. Even if you have no bitcoin, ignorance of Bitcoin's technical underpinnings makes it hard to follow new developments and spot opportunities.
+It's thoughtless to start using something you don't trust. It's difficult to start trusting something you don't understand. Bitcoin for Nonmathematicians contains answers to the following questions: how bitcoin is different from other payment systems, and why we can trust cryptocurrencies. The book compares bitcoin with its predecessors and competitors, and demonstrates the benefits of cryptocurrency over any other existing methods of payments. Bitcoin for Nonmathematicians starts from overview of the evolution of payment systems from gold and paper money to payment cards to cryptocurrencies, and ends up with explaining the fundamentals of security and privacy of crypto payments by explaining the details of cryptography behind bitcoin in layman's terms.
 
-  - [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view)
-  - [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
+
   - [Bitcoin for Nonmathematicians (2016)](https://drive.google.com/file/d/1-QXv47ldCCxMWRijhEa8NWjG_FmohVeF/view)
   - [Bitcoin for the Befuddled (2014)](https://drive.google.com/file/d/0B81TNkQfgbpEdUNUWENFbmVrUWs/view)
   - [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
