@@ -53,6 +53,12 @@ Blockchain is a decentralized ledger that maintains a continuously growing list 
 
 This comprehensive guide delivers hands-on coverage of the development, validation, and deployment of Blockchain technology. Written by a pair of computing experts, the book demonstrates each topic through a start-to-finish Blockchain evolution. You will get full details on AWS risk and compliance as well as programming and architectural best practices.
 
+### [Blockchain Enabled Applications (2017)](https://drive.google.com/file/d/1ZezMu7ZJ2fpqdhK8TaLWeHh4O75Oepjb/view) *Download*
+
+<img src="https://images.springer.com/sgw/books/medium/9781484230800.jpg" width="120px"/>
+
+Work with blockchain and understand its potential application beyond cryptocurrencies in the domains of healthcare, Internet of Things, finance, decentralized organizations, and open science. Featuring case studies and practical insights generated from a start-up spun off from the author’s own lab, this book covers a unique mix of topics not found in others and offers insight into how to overcome real hurdles that arise as the market and consumers grow accustomed to blockchain based start-ups.
+
 **Documentations**
 ---
 
