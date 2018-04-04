@@ -119,15 +119,22 @@ It's thoughtless to start using something you don't trust. It's difficult to sta
 
 Unless you’ve been living under a rock for the last couple of years, you’ve probably heard of Bitcoin—the game-changing digital currency used by millions worldwide. But Bitcoin isn't just another way to buy stuff. It’s an anonymous, revolutionary, cryptographically secure currency that functions without the oversight of a central authority or government. If you want to get into the Bitcoin game but find yourself a little confused, Bitcoin for the ­Befuddled may be just what you’re looking for. Learn what Bitcoin is; how it works; and how to acquire, store, and spend bitcoins safely and securely.
 
-### [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
+### [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view) *Download*
 
 <img src="https://images.gr-assets.com/books/1497902570l/35480869.jpg" width="120px"/>
 
 Technology is changing money and this book looks at where it might be taking us. Technology has transformed money from physical objects to intangible information. With the arrival of smart cards, mobile phones and Bitcoin it has become easier than ever to create new forms of money. Crucially, money is also inextricably connected with our identities. Your card or phone is a security device that can identify you - and link information about you to your money.
 
+### [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view) *Download*
 
-  - [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view)
-  - [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view)
+<img src="https://images-na.ssl-images-amazon.com/images/I/51dUqZ2LX4L.jpg" width="120px"/>
+
+This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking’ series of eBooks. In this series, we will thoroughly define blockchain and see it in action, we’ll see how ‘blockchain’ could be leveraged to enhance the technologies that exist in the Data Networking: i.e. LAN and WAN technologies.
+
+
+
+
+
   - [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view)
   - [Blockchain For Dummies (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxcDVjUGdxQ1dtM0E/view)
   - [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view)
