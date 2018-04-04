@@ -66,7 +66,7 @@ Work with blockchain and understand its potential application beyond cryptocurre
 
 ### [Solidity Documentation (2018)](https://media.readthedocs.org/pdf/solidity/latest/solidity.pdf) *Download*
 
-<img src="http://solidity.readthedocs.io/en/latest/_images/logo.svg" width="120px"/>
+<img src="https://solidity.readthedocs.io/en/latest/_images/logo.svg" width="120px"/>
 
 Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM). Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features. As you will see, it is possible to create contracts for voting, crowdfunding, blind auctions, multi-signature wallets and more.
 
@@ -88,7 +88,7 @@ Hyperledger Fabric is a platform for distributed ledger solutions, underpinned b
 
 ### [Bitcoin and Blockchain Security (2016)](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view) *Download*
 
-<img src="http://us.artechhouse.com/Assets/ProductImages/0135_t.jpg" width="120px"/>
+<img src="https://us.artechhouse.com/Assets/ProductImages/0135_t.jpg" width="120px"/>
 
 There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors will help to answer some imperative questions about the security involved in this new digital asset and ledger. This comprehensive new resource presents a thorough overview and analysis of the security and privacy provisions of Bitcoin and its underlying blockchain clients. This book goes beyond the analysis of reported vulnerabilities of Bitcoin, evaluating a number of countermeasures to deter threats on the system. Readers are given concrete solutions and recommendations on the best practices to use when relying on Bitcoin as a payment method. This resource provides a clear explanation of assumptions governing the security of Bitcoin, including the scalability measures adopted in Bitcoin, privacy for clients, and the proper means of securing Bitcoin wallets. Readers learn how the security and privacy provisions of other blockchain technologies compare to Bitcoin and the security lessons learned after extensive research of Bitcoin since the inception of the currency.
 
