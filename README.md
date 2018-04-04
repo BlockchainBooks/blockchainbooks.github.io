@@ -69,6 +69,12 @@ Work with blockchain and understand its potential application beyond cryptocurre
 
 Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by C++, Python and JavaScript and is designed to target the Ethereum Virtual Machine (EVM). Solidity is statically typed, supports inheritance, libraries and complex user-defined types among other features. As you will see, it is possible to create contracts for voting, crowdfunding, blind auctions, multi-signature wallets and more.
 
+### [web3.js Documentation (2018)](https://media.readthedocs.org/pdf/web3js/1.0/web3js.pdf) *Download*
+
+<img src="https://www.ethereum.org/images/logos/ETHEREUM-LOGO_PORTRAIT_Black_small.png" width="120px"/>
+
+web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection. The following documentation will guide you through installing and running web3.js, as well as providing a API reference documentation with examples.
+
 **More Books**
 ---
 
