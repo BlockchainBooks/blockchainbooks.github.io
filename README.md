@@ -101,6 +101,11 @@ There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors w
 
 This book answers the questions about "What does it mean to mine a cryptocurrency such as Ethereum?", "How to mine with a graphics card (GPU)?", "How to start your GPU mining business with only $100", "How to deal with generated heat from a GPU mining rig and how to extend the life of the components?", and "How much money does a GPU mining rig make?". It helps you to "Choose the best GPU for mining Ethereum platform". In short it is "A complete step-by-step guide to the hardware and software for building a GPU mining rig."
 
+### [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view) *Download*
+
+<img src="https://i.pinimg.com/564x/22/de/f6/22def66817d0552b3b61dd2fe0282e3e.jpg" width="120px"/>
+
+Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work well, but only if you belong to the right audience. Many works throw non-experts into the deep end without a life vest. Others skip along the surface leaving non-beginners little of value for their time. The result is unsatisfying at best and dangerous at worst. Without the knowledge and confidence to manage your own money, you may entrust it to others - the very situation Bitcoin was created to overturn. All the while, these services gobble up financial secrets for unknown ends. Even if you have no bitcoin, ignorance of Bitcoin's technical underpinnings makes it hard to follow new developments and spot opportunities.
 
   - [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view)
   - [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view)
