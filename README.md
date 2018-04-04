@@ -75,6 +75,13 @@ Solidity is a contract-oriented, high-level language for implementing smart cont
 
 web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection. The following documentation will guide you through installing and running web3.js, as well as providing a API reference documentation with examples.
 
+### [Hyperledger Fabric Documentation (2018)](https://media.readthedocs.org/pdf/hyperledger-fabric/latest/hyperledger-fabric.pdf) *Download*
+
+<img src="https://hyperledger-fabric.readthedocs.io/en/latest/_images/hyperledger_fabric_logo_color.png" width="120px"/>
+
+Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability. It is designed to support pluggable implementations of different components, and accommodate the complexity and intricacies that exist across the economic ecosystem.
+
+
 **More Books**
 ---
 
