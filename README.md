@@ -154,6 +154,12 @@ Solidity is a contract-oriented, high-level language for implementing smart cont
 
 web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection. The following documentation will guide you through installing and running web3.js, as well as providing a API reference documentation with examples.
 
+### [Swarm Documentation (2018)](https://media.readthedocs.org/pdf/swarm-guide/latest/swarm-guide.pdf) *Download*
+
+<img src="http://swarm-guide.readthedocs.io/en/latest/_images/swarm-logo.jpg" width="120px"/>
+
+Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web 3 stack. The primary objective of Swarm is to provide a sufficiently decentralized and redundant store of Ethereum’s public record, in particular to store and distribute dapp code and data as well as block chain data. From an economic point of view, it allows participants to efficiently pool their storage and bandwidth resources in order to provide the aforementioned services to all participants.
+
 ### [Hyperledger Fabric Documentation (2018)](https://media.readthedocs.org/pdf/hyperledger-fabric/latest/hyperledger-fabric.pdf) *Download*
 
 <img src="https://hyperledger-fabric.readthedocs.io/en/latest/_images/hyperledger_fabric_logo_color.png" width="120px"/>
