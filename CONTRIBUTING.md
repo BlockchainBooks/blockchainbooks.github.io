@@ -2,7 +2,7 @@
 
 - **To add, remove, or change things on the list:** Submit a pull request
 
-To set this list apart from and complement the excellent Blockchain Books wiki Projects page, blockchainbooks.github.io is a specially curated list for high-quality, actively maintained Go packages and resources.
+To set this list apart from and complement the excellent Blockchain Books wiki Projects page, blockchainbooks.github.io is a specially curated list for high-quality.
 
 - List items should be sorted alphabetically.
 - Each item should be limited to one link.
