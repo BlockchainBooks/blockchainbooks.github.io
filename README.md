@@ -138,7 +138,7 @@ With the rise of bitcoin and blockchain technology, investors can capitalize on 
 
 ### [Ethereum Homestead Documentation (2017)](https://media.readthedocs.org/pdf/ethereum-homestead/latest/ethereum-homestead.pdf) *Download*
 
-<img src="https://www.ethereum.org/images/logos/ETHEREUM-ICON_Black.png" width="120px"/>
+<img src="https://www.ethereum.org/images/logos/ETHEREUM-ICON_Black_small.png" width="120px"/>
 
 Ethereum is an open blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. Like Bitcoin, no one controls or owns Ethereum – it is an open-source project built by many people around the world. But unlike the Bitcoin protocol, Ethereum was designed to be adaptable and flexible. It is easy to create new applications on the Ethereum platform, and with the Homestead release, it is now safe for anyone to use those applications.
 
