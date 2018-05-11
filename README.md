@@ -70,6 +70,12 @@ This comprehensive guide delivers hands-on coverage of the development, validati
 
 Work with blockchain and understand its potential application beyond cryptocurrencies in the domains of healthcare, Internet of Things, finance, decentralized organizations, and open science. Featuring case studies and practical insights generated from a start-up spun off from the author’s own lab, this book covers a unique mix of topics not found in others and offers insight into how to overcome real hurdles that arise as the market and consumers grow accustomed to blockchain based start-ups.
 
+### [Decentralized Applications (2016)](http://file.allitebooks.com/20160822/Decentralized%20Applications.pdf) *Download*
+
+<img src="https://covers.oreillystatic.com/images/0636920039334/lrg.jpg" width="120px"/>
+
+Take advantage of Bitcoin’s underlying technology, the blockchain, to build massively scalable, decentralized applications known as dapps. In this practical guide, author Siraj Raval explains why dapps will become more widely used—and profitable—than today’s most popular web apps. You’ll learn how the blockchain’s cryptographically stored ledger, scarce-asset model, and peer-to-peer (P2P) technology provide a more flexible, better-incentivized structure than current software models.
+
 ### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide) *Download*
 
 <img src="https://tr1.cbsistatic.com/hub/i/2018/03/01/effabfe7-dea5-4e50-a4da-afd7e10a0e76/wallpaper-frontier.jpg" width="120px"/>
