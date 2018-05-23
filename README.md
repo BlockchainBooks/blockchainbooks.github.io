@@ -18,11 +18,11 @@
 
 Join the technological revolution that’s taking the financial world by storm. Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the knowledge you need to participate in the internet of money. Whether you’re building the next killer app, investing in a startup, or simply curious about the technology, this revised and expanded second edition provides essential detail to get you started.
 
-### [Mastering Blockchain (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxUUF2YkVWaFRtZUU/view) *Download*
+### [Mastering Blockchain, 2nd Edition (2018)](https://drive.google.com/file/d/1B1LEO73CPom8ldSf2tMRRUcx28IW6tBk/view) *Download*
   
-<img src="https://www.packtpub.com/sites/default/files/B05975_MockupCover.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B09700_Cover.png" width="120px"/>
   
-Blockchain is a distributed database that enables permanent, transparent, and secure storage of data. The blockchain technology is the backbone of cryptocurrency – in fact, it's the shared public ledger upon which the entire Bitcoin network relies – and it's gaining popularity with people who work in finance, government, and the arts.
+A blockchain is a distributed ledger that is replicated across multiple nodes and enables immutable, transparent and cryptographically secure record-keeping of transactions. The blockchain technology is the backbone of cryptocurrencies, and it has applications in finance, government, media and almost all other industries. Mastering Blockchain, Second Edition has been thoroughly updated and revised to provide a detailed description of this leading technology and its implementation in the real world.
 
 ### [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view) *Download*
 
