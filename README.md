@@ -30,6 +30,12 @@ A blockchain is a distributed ledger that is replicated across multiple nodes an
 
 Bitcoin is starting to come into its own as a digital currency, but the blockchain technology behind it could prove to be much more significant. This book takes you beyond the currency ("Blockchain 1.0") and smart contracts ("Blockchain 2.0") to demonstrate how the blockchain is in position to become the fifth disruptive computing paradigm after mainframes, PCs, the Internet, and mobile/social networking.
 
+### [Blockchain and the Law: The Rule of Code (2018)](https://drive.google.com/file/d/1jfMcmh3zMMlHFLJ5iJqOtLiqPnrk1II6/view) *Download*
+
+<img src="http://www.hup.harvard.edu/images/jackets/9780674976429.jpg" width="120px"/>
+
+Since Bitcoin appeared in 2009, the digital currency has been hailed as an Internet marvel and decried as the preferred transaction vehicle for all manner of criminals. It has left nearly everyone without a computer science degree confused: Just how do you “mine” money from ones and zeros? The answer lies in a technology called blockchain, which can be used for much more than Bitcoin. A general-purpose tool for creating secure, decentralized, peer-to-peer applications, blockchain technology has been compared to the Internet itself in both form and impact. Some have said this tool may change society as we know it. Blockchains are being used to create autonomous computer programs known as “smart contracts,” to expedite payments, to create financial instruments, to organize the exchange of data and information, and to facilitate interactions between humans and machines. The technology could affect governance itself, by supporting new organizational structures that promote more democratic and participatory decision making.
+
 ### [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view) *Download*
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51BaGHVPe5L.jpg" width="120px"/>
