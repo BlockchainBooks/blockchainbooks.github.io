@@ -32,7 +32,7 @@ Bitcoin is starting to come into its own as a digital currency, but the blockcha
 
 ### [Blockchain and the Law: The Rule of Code (2018)](https://drive.google.com/file/d/1jfMcmh3zMMlHFLJ5iJqOtLiqPnrk1II6/view) *Download*
 
-<img src="http://www.hup.harvard.edu/images/jackets/9780674976429.jpg" width="120px"/>
+<img src="https://www.hup.harvard.edu/images/jackets/9780674976429.jpg" width="120px"/>
 
 Since Bitcoin appeared in 2009, the digital currency has been hailed as an Internet marvel and decried as the preferred transaction vehicle for all manner of criminals. It has left nearly everyone without a computer science degree confused: Just how do you “mine” money from ones and zeros? The answer lies in a technology called blockchain, which can be used for much more than Bitcoin. A general-purpose tool for creating secure, decentralized, peer-to-peer applications, blockchain technology has been compared to the Internet itself in both form and impact. Some have said this tool may change society as we know it. Blockchains are being used to create autonomous computer programs known as “smart contracts,” to expedite payments, to create financial instruments, to organize the exchange of data and information, and to facilitate interactions between humans and machines. The technology could affect governance itself, by supporting new organizational structures that promote more democratic and participatory decision making.
 
@@ -88,7 +88,7 @@ Work with blockchain and understand its potential application beyond cryptocurre
 
 Learn how to use Solidity and the Ethereum project – second only to Bitcoin in market capitalization. Blockchain protocols are taking the world by storm, and the Ethereum project, with its Turing-complete scripting language Solidity, has rapidly become a front-runner. This book presents the blockchain phenomenon in context; then situates Ethereum in a world pioneered by Bitcoin.
 
-### [Decentralized Applications (2016)](http://file.allitebooks.com/20160822/Decentralized%20Applications.pdf) *Download*
+### [Decentralized Applications (2016)](https://file.allitebooks.com/20160822/Decentralized%20Applications.pdf) *Download*
 
 <img src="https://covers.oreillystatic.com/images/0636920039334/lrg.jpg" width="120px"/>
 
