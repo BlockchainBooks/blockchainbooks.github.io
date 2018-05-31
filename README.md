@@ -52,11 +52,11 @@ Blockchain is the technology behind Bitcoin, the revolutionary 'virtual currency
 **Decentralized Applications**
 ---
 
-### [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view) *Download*
+### [Building Games with Ethereum Smart Contracts (2018)](https://drive.google.com/file/d/1OYQzFxTnaFLYHOeNVJw-AUeYcfueg_Es/view) *Download*
 
-<img src="https://images.springer.com/sgw/books/medium/9781484225349.jpg" width="120px"/>
+<img src="https://images.springer.com/sgw/books/medium/9781484234914.jpg" width="120px"/>
 
-Learn how to use Solidity and the Ethereum project – second only to Bitcoin in market capitalization. Blockchain protocols are taking the world by storm, and the Ethereum project, with its Turing-complete scripting language Solidity, has rapidly become a front-runner. This book presents the blockchain phenomenon in context; then situates Ethereum in a world pioneered by Bitcoin.
+Learn how to take your existing knowledge of Ethereum and Solidity to the next level. Hone your development skills and become more familiar with the syntax of the Solidity language by working through well-tested, well-documented intermediate-level sample projects.
 
 ### [Solidity Programming Essentials (2018)](https://drive.google.com/file/d/1WiXzYgqxfqybfd_KEzWNN0AQ62EcRrBN/view) *Download*
 
@@ -81,6 +81,12 @@ This comprehensive guide delivers hands-on coverage of the development, validati
 <img src="https://images.springer.com/sgw/books/medium/9781484230800.jpg" width="120px"/>
 
 Work with blockchain and understand its potential application beyond cryptocurrencies in the domains of healthcare, Internet of Things, finance, decentralized organizations, and open science. Featuring case studies and practical insights generated from a start-up spun off from the author’s own lab, this book covers a unique mix of topics not found in others and offers insight into how to overcome real hurdles that arise as the market and consumers grow accustomed to blockchain based start-ups.
+
+### [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view) *Download*
+
+<img src="https://images.springer.com/sgw/books/medium/9781484225349.jpg" width="120px"/>
+
+Learn how to use Solidity and the Ethereum project – second only to Bitcoin in market capitalization. Blockchain protocols are taking the world by storm, and the Ethereum project, with its Turing-complete scripting language Solidity, has rapidly become a front-runner. This book presents the blockchain phenomenon in context; then situates Ethereum in a world pioneered by Bitcoin.
 
 ### [Decentralized Applications (2016)](http://file.allitebooks.com/20160822/Decentralized%20Applications.pdf) *Download*
 
