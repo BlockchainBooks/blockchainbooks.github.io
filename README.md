@@ -52,6 +52,12 @@ Blockchain is the technology behind Bitcoin, the revolutionary 'virtual currency
 
 Learn how to use Solidity and the Ethereum project – second only to Bitcoin in market capitalization. Blockchain protocols are taking the world by storm, and the Ethereum project, with its Turing-complete scripting language Solidity, has rapidly become a front-runner. This book presents the blockchain phenomenon in context; then situates Ethereum in a world pioneered by Bitcoin.
 
+### [Solidity Programming Essentials (2018)](https://drive.google.com/file/d/1WiXzYgqxfqybfd_KEzWNN0AQ62EcRrBN/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B09675_0.png" width="120px"/>
+
+Solidity is a contract-oriented language whose syntax is highly influenced by JavaScript, and is designed to compile code for the Ethereum Virtual Machine. Solidity Programming Essentials will be your guide to understanding Solidity programming to build smart contracts for Ethereum and blockchain from ground-up.
+
 ### [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view) *Download*
 
 <img src="https://www.packtpub.com/sites/default/files/9781787122147.png" width="120px"/>
