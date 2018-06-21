@@ -120,6 +120,12 @@ Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work
 **Bitcoin Books**
 ---
 
+### [Investigating Cryptocurrencies: Understanding, Extracting, and Analyzing Blockchain Evidence (2018)](https://drive.google.com/file/d/1xfW78TRZGPyGExYAgI9fvKkmRfcoP7rR/view) *Download*
+
+<img src="https://media.wiley.com/product_data/coverImage300/82/11194805/1119480582.jpg" width="120px"/>
+
+Bitcoin has traditionally been the payment system of choice for a criminal trading on the Dark Web, and now many other blockchain cryptocurrencies are entering the mainstream as traders are accepting them from low-end investors putting their money into the market. Worse still, the blockchain can even be used to hide information and covert messaging, unknown to most investigators.
+
 ### [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view) *Download*
 
 <img src="https://html2-f.scribdassets.com/5qehea33eo5ypl28/images/1-fd2573e944.jpg" width="120px"/>
