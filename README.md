@@ -6,6 +6,7 @@
 * [Decentralized Applications](#decentralized-applications)
 * [Security Books](#security-books)
 * [Bitcoin Books](#bitcoin-books)
+* [Hyperledger Books](#hyperledger-books)
 * [Documentations](#documentations)
 
 
@@ -161,6 +162,15 @@ This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking
 <img src="https://images-na.ssl-images-amazon.com/images/I/51gAisJ-ZNL.jpg" width="120px"/>
 
 With the rise of bitcoin and blockchain technology, investors can capitalize on the greatest investment opportunity since the Internet. Bitcoin was the first cryptoasset, but today there are over 800 and counting, including ether, ripple, litecoin, monero, and more. This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world―and how to invest in these emerging assets to secure your financial future.
+
+**Hyperledger Books**
+---
+
+### [Hands-On Blockchain with Hyperledger (2018)](https://drive.google.com/file/d/121qFiLsO37nxSAud-HVI_UEtIeWMhb18/view) *Download*
+
+<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10152_Newcover.png" width="120px"/>
+
+Blockchain and Hyperledger technologiesare hot topics today. Hyperledger Fabric and Hyperledger Composer are open source projects that help organizations create private, permissioned blockchain networks. These find application in finance, banking, supply chain, and IoT among several other sectors. This book will be an easy reference to explore and build blockchain networks using Hyperledger technologies.
 
 
 **Documentations**
