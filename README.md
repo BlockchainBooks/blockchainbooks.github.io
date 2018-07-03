@@ -105,6 +105,12 @@ The Frontier is the first live release of the Ethereum network. As such you are 
 **Security Books**
 ---
 
+### [Hands-On Cybersecurity with Blockchain (2018)](https://drive.google.com/file/d/1Bg7j_oUS0D0fTsiI8cHqv0vIZHp4-FSI/view) *Download*
+
+<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10127_CoverImage.png" width="120px"/>
+
+Blockchain technology is being welcomed as one of the most revolutionary and impactful innovations of today. Blockchain technology was first identified in the world’s most popular digital currency, Bitcoin, but has now changed the outlook of several organizations and empowered them to use it even for storage and transfer of value.
+
 ### [Bitcoin and Blockchain Security (2016)](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view) *Download*
 
 <img src="https://us.artechhouse.com/Assets/ProductImages/0135_t.jpg" width="120px"/>
