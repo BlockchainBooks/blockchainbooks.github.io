@@ -196,7 +196,7 @@ Solidity is a contract-oriented, high-level language for implementing smart cont
 
 ### [web3.js Documentation (2018)](https://media.readthedocs.org/pdf/web3js/1.0/web3js.pdf) *Download*
 
-<img src="https://www.ethereum.org/images/logos/ETHEREUM-LOGO_PORTRAIT_Black_small.png" width="120px"/>
+<img src="https://cdn-images-1.medium.com/max/400/1*uFuRJ8osF_ma0FF7Un1cag.png" width="120px"/>
 
 web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection. The following documentation will guide you through installing and running web3.js, as well as providing a API reference documentation with examples.
 
