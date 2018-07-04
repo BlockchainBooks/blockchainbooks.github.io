@@ -27,7 +27,7 @@ A blockchain is a distributed ledger that is replicated across multiple nodes an
 
 ### [Blockchain and the Law: The Rule of Code (2018)](https://drive.google.com/file/d/1jfMcmh3zMMlHFLJ5iJqOtLiqPnrk1II6/view) *Download*
 
-<img src="http://www.hup.harvard.edu/images/jackets/9780674976429.jpg" width="120px"/>
+<img src="https://images.gr-assets.com/books/1514834239l/36700768.jpg" width="120px"/>
 
 Since Bitcoin appeared in 2009, the digital currency has been hailed as an Internet marvel and decried as the preferred transaction vehicle for all manner of criminals. It has left nearly everyone without a computer science degree confused: Just how do you “mine” money from ones and zeros? The answer lies in a technology called blockchain, which can be used for much more than Bitcoin. A general-purpose tool for creating secure, decentralized, peer-to-peer applications, blockchain technology has been compared to the Internet itself in both form and impact. Some have said this tool may change society as we know it. Blockchains are being used to create autonomous computer programs known as “smart contracts,” to expedite payments, to create financial instruments, to organize the exchange of data and information, and to facilitate interactions between humans and machines. The technology could affect governance itself, by supporting new organizational structures that promote more democratic and participatory decision making.
 
