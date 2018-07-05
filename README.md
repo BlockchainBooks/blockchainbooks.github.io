@@ -19,7 +19,7 @@
 
 Join the technological revolution that’s taking the financial world by storm. Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the knowledge you need to participate in the internet of money. Whether you’re building the next killer app, investing in a startup, or simply curious about the technology, this revised and expanded second edition provides essential detail to get you started.
 
-### [Mastering Blockchain, 2nd Edition (2018)](https://drive.google.com/file/d/1B1LEO73CPom8ldSf2tMRRUcx28IW6tBk/view) *Download*
+### [Mastering Blockchain, 2nd Edition (2018)](https://drive.google.com/file/d/1_7djN3CU0OC-mK68s12_D0JXxeDFy_hX/view) *Download*
   
 <img src="https://www.packtpub.com/sites/default/files/B09700_Cover.png" width="120px"/>
   
