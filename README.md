@@ -31,6 +31,12 @@ A blockchain is a distributed ledger that is replicated across multiple nodes an
 
 Since Bitcoin appeared in 2009, the digital currency has been hailed as an Internet marvel and decried as the preferred transaction vehicle for all manner of criminals. It has left nearly everyone without a computer science degree confused: Just how do you “mine” money from ones and zeros? The answer lies in a technology called blockchain, which can be used for much more than Bitcoin. A general-purpose tool for creating secure, decentralized, peer-to-peer applications, blockchain technology has been compared to the Internet itself in both form and impact. Some have said this tool may change society as we know it. Blockchains are being used to create autonomous computer programs known as “smart contracts,” to expedite payments, to create financial instruments, to organize the exchange of data and information, and to facilitate interactions between humans and machines. The technology could affect governance itself, by supporting new organizational structures that promote more democratic and participatory decision making.
 
+### [Beginning Blockchain: A Beginner’s Guide to Building (2018)](https://drive.google.com/file/d/1zAbGOkHG8N4xCroWH-Kva936-nDNW7Y4/view) *Download*
+
+<img src="https://images.springer.com/sgw/books/medium/9781484234433.jpg" width="120px"/>
+
+Understand the nuts and bolts of Blockchain, its different flavors with simple use cases, and cryptographic fundamentals. You will also learn some design considerations that can help you build custom solutions.
+
 ### [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view) *Download*
 
 <img src="https://covers.oreillystatic.com/images/0636920037040/lrg.jpg" width="120px"/>
