@@ -35,7 +35,7 @@ Since Bitcoin appeared in 2009, the digital currency has been hailed as an Inter
 
 <img src="https://images.springer.com/sgw/books/medium/9781484234433.jpg" width="120px"/>
 
-Understand the nuts and bolts of Blockchain, its different flavors with simple use cases, and cryptographic fundamentals. You will also learn some design considerations that can help you build custom solutions.
+Beginning Blockchain is a beginner’s guide to understanding the core concepts of Blockchain from a technical perspective. By learning the design constructs of different types of Blockchain, you will get a better understanding of building the best solution for specific use cases. The book covers the technical aspects of Blockchain technologies, cryptography, cryptocurrencies, and distributed consensus mechanisms. You will learn how these systems work and how to engineer them to design next-gen business solutions.
 
 ### [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view) *Download*
 
