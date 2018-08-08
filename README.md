@@ -2,12 +2,12 @@
 
 > Blockchain Books to help people learn and become Awesome
 
-* [Blockchain Books](#blockchain-books)
-* [Decentralized Applications](#decentralized-applications)
-* [Security Books](#security-books)
-* [Bitcoin Books](#bitcoin-books)
-* [Hyperledger Books](#hyperledger-books)
-* [Documentations](#documentations)
+1. [Blockchain Books](#blockchain-books)
+1. [Decentralized Applications](#decentralized-applications)
+1. [Security Books](#security-books)
+1. [Bitcoin Books](#bitcoin-books)
+1. [Hyperledger Books](#hyperledger-books)
+1. [Documentations](#documentations)
 
 
 **Blockchain Books**
