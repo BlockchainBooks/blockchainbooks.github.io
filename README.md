@@ -73,7 +73,7 @@ Solidity is a contract-oriented language whose syntax is highly influenced by Ja
 
 ### [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view) *Download*
 
-<img src="https://www.packtpub.com/sites/default/files/9781787122147.png" width="120px"/>
+<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05955.png" width="120px"/>
 
 Blockchain is a decentralized ledger that maintains a continuously growing list of data records that are secured from tampering and revision. Every user is allowed to connect to the network, send new transactions to it, verify transactions, and create new blocks, making it permission-less.
 
