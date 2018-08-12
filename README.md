@@ -144,17 +144,17 @@ Blockchain and Hyperledger technologiesare hot topics today. Hyperledger Fabric 
 
 Blockchain technology is being welcomed as one of the most revolutionary and impactful innovations of today. Blockchain technology was first identified in the world’s most popular digital currency, Bitcoin, but has now changed the outlook of several organizations and empowered them to use it even for storage and transfer of value.
 
-### [Bitcoin and Blockchain Security (2016)](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view) *Download*
-
-<img src="https://us.artechhouse.com/Assets/ProductImages/0135_t.jpg" width="120px"/>
-
-There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors will help to answer some imperative questions about the security involved in this new digital asset and ledger. This comprehensive new resource presents a thorough overview and analysis of the security and privacy provisions of Bitcoin and its underlying blockchain clients. This book goes beyond the analysis of reported vulnerabilities of Bitcoin, evaluating a number of countermeasures to deter threats on the system. Readers are given concrete solutions and recommendations on the best practices to use when relying on Bitcoin as a payment method. This resource provides a clear explanation of assumptions governing the security of Bitcoin, including the scalability measures adopted in Bitcoin, privacy for clients, and the proper means of securing Bitcoin wallets. Readers learn how the security and privacy provisions of other blockchain technologies compare to Bitcoin and the security lessons learned after extensive research of Bitcoin since the inception of the currency.
-
 ### [Owning Bitcoin: The Illustrated Guide to Security, Privacy, and Potential (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEaTNoamV6dmlBVzQ/view) *Download*
 
 <img src="https://i.pinimg.com/564x/22/de/f6/22def66817d0552b3b61dd2fe0282e3e.jpg" width="120px"/>
 
 Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work well, but only if you belong to the right audience. Many works throw non-experts into the deep end without a life vest. Others skip along the surface leaving non-beginners little of value for their time. The result is unsatisfying at best and dangerous at worst. Without the knowledge and confidence to manage your own money, you may entrust it to others - the very situation Bitcoin was created to overturn. All the while, these services gobble up financial secrets for unknown ends. Even if you have no bitcoin, ignorance of Bitcoin's technical underpinnings makes it hard to follow new developments and spot opportunities.
+
+### [Bitcoin and Blockchain Security (2016)](https://drive.google.com/file/d/0B81TNkQfgbpEbDIwTmpTMHdVWTg/view) *Download*
+
+<img src="https://us.artechhouse.com/Assets/ProductImages/0135_t.jpg" width="120px"/>
+
+There is a lot of buzz about Bitcoin and Blockchain lately, our expert authors will help to answer some imperative questions about the security involved in this new digital asset and ledger. This comprehensive new resource presents a thorough overview and analysis of the security and privacy provisions of Bitcoin and its underlying blockchain clients. This book goes beyond the analysis of reported vulnerabilities of Bitcoin, evaluating a number of countermeasures to deter threats on the system. Readers are given concrete solutions and recommendations on the best practices to use when relying on Bitcoin as a payment method. This resource provides a clear explanation of assumptions governing the security of Bitcoin, including the scalability measures adopted in Bitcoin, privacy for clients, and the proper means of securing Bitcoin wallets. Readers learn how the security and privacy provisions of other blockchain technologies compare to Bitcoin and the security lessons learned after extensive research of Bitcoin since the inception of the currency.
 
 
 **Bitcoin Books**
