@@ -37,6 +37,12 @@ Since Bitcoin appeared in 2009, the digital currency has been hailed as an Inter
 
 Beginning Blockchain is a beginner’s guide to understanding the core concepts of Blockchain from a technical perspective. By learning the design constructs of different types of Blockchain, you will get a better understanding of building the best solution for specific use cases. The book covers the technical aspects of Blockchain technologies, cryptography, cryptocurrencies, and distributed consensus mechanisms. You will learn how these systems work and how to engineer them to design next-gen business solutions.
 
+### [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view) *Download*
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51dUqZ2LX4L.jpg" width="120px"/>
+
+This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking’ series of eBooks. In this series, we will thoroughly define blockchain and see it in action, we’ll see how ‘blockchain’ could be leveraged to enhance the technologies that exist in the Data Networking: i.e. LAN and WAN technologies.
+
 ### [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view) *Download*
 
 <img src="https://covers.oreillystatic.com/images/0636920037040/lrg.jpg" width="120px"/>
@@ -189,12 +195,6 @@ Unless you’ve been living under a rock for the last couple of years, you’ve 
 <img src="https://images.gr-assets.com/books/1497902570l/35480869.jpg" width="120px"/>
 
 Technology is changing money and this book looks at where it might be taking us. Technology has transformed money from physical objects to intangible information. With the arrival of smart cards, mobile phones and Bitcoin it has become easier than ever to create new forms of money. Crucially, money is also inextricably connected with our identities. Your card or phone is a security device that can identify you - and link information about you to your money.
-
-### [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view) *Download*
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51dUqZ2LX4L.jpg" width="120px"/>
-
-This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking’ series of eBooks. In this series, we will thoroughly define blockchain and see it in action, we’ll see how ‘blockchain’ could be leveraged to enhance the technologies that exist in the Data Networking: i.e. LAN and WAN technologies.
 
 ### [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view) *Download*
 
