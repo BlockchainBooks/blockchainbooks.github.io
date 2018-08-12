@@ -160,6 +160,12 @@ Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work
 
 Bitcoin has traditionally been the payment system of choice for a criminal trading on the Dark Web, and now many other blockchain cryptocurrencies are entering the mainstream as traders are accepting them from low-end investors putting their money into the market. Worse still, the blockchain can even be used to hide information and covert messaging, unknown to most investigators.
 
+### [Understanding Bitcoin: Cryptography, Engineering and Economics (2018)](https://drive.google.com/file/d/1ZOj67W92IFNpIVxU_tGsF7Pc1qBEOXTO/view) *Download*
+
+<img src="https://media.wiley.com/product_data/coverImage300/68/11190191/1119019168.jpg" width="120px"/>
+
+Bitcoin is arguably one of the biggest developments in finance since the advent of fiat currency. With Understanding Bitcoin, expert author Pedro Franco provides finance professionals with a complete technical guide and resource to the cryptography, engineering and economic development of Bitcoin and other cryptocurrencies. This comprehensive, yet accessible work fully explores the supporting economic realities and technological advances of Bitcoin, and presents positive and negative arguments from various economic schools regarding its continued viability.
+
 ### [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view) *Download*
 
 <img src="https://html2-f.scribdassets.com/5qehea33eo5ypl28/images/1-fd2573e944.jpg" width="120px"/>
