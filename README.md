@@ -83,6 +83,12 @@ Blockchain is a decentralized ledger that maintains a continuously growing list 
 
 This comprehensive guide delivers hands-on coverage of the development, validation, and deployment of Blockchain technology. Written by a pair of computing experts, the book demonstrates each topic through a start-to-finish Blockchain evolution. You will get full details on AWS risk and compliance as well as programming and architectural best practices.
 
+### [Ethereum Projects for Beginners (2018)](https://drive.google.com/file/d/1Ik7r4LNsEcWWWh5VOz7C1l_c5vIX6cvK/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B11521.png" width="120px"/>
+
+Ethereum enables the development of efficient, smart contracts that contain code. These smart contracts can interact with other smart contracts to make decisions, store data, and send Ether to others.Ethereum Projects for Beginners provides you with a clear introduction to creating cryptocurrencies, smart contracts, and decentralized applications. As you make your way through the book, you’ll get to grips with detailed step-by-step processes to build advanced Ethereum projects. Each project will teach you enough about Ethereum to be productive right away. You will learn how tokenization works, think in a decentralized way, and build blockchain-based distributed computing systems. Towards the end of the book, you will develop interesting Ethereum projects such as creating wallets and secure data sharing.By the end of this book, you will be able to tackle blockchain challenges by implementing end-to-end projects using the full power of the Ethereum blockchain.
+
 ### [Blockchain Enabled Applications (2017)](https://drive.google.com/file/d/1ZezMu7ZJ2fpqdhK8TaLWeHh4O75Oepjb/view) *Download*
 
 <img src="https://images.springer.com/sgw/books/medium/9781484230800.jpg" width="120px"/>
