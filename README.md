@@ -37,17 +37,17 @@ Since Bitcoin appeared in 2009, the digital currency has been hailed as an Inter
 
 Beginning Blockchain is a beginner’s guide to understanding the core concepts of Blockchain from a technical perspective. By learning the design constructs of different types of Blockchain, you will get a better understanding of building the best solution for specific use cases. The book covers the technical aspects of Blockchain technologies, cryptography, cryptocurrencies, and distributed consensus mechanisms. You will learn how these systems work and how to engineer them to design next-gen business solutions.
 
-### [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view) *Download*
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51dUqZ2LX4L.jpg" width="120px"/>
-
-This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking’ series of eBooks. In this series, we will thoroughly define blockchain and see it in action, we’ll see how ‘blockchain’ could be leveraged to enhance the technologies that exist in the Data Networking: i.e. LAN and WAN technologies.
-
 ### [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view) *Download*
 
 <img src="https://covers.oreillystatic.com/images/0636920037040/lrg.jpg" width="120px"/>
 
 Bitcoin is starting to come into its own as a digital currency, but the blockchain technology behind it could prove to be much more significant. This book takes you beyond the currency ("Blockchain 1.0") and smart contracts ("Blockchain 2.0") to demonstrate how the blockchain is in position to become the fifth disruptive computing paradigm after mainframes, PCs, the Internet, and mobile/social networking.
+
+### [Blockchain: The Hidden Gem of Data Networking (2017)](https://drive.google.com/file/d/0B81TNkQfgbpENUhLUHQtRHNPczA/view) *Download*
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51dUqZ2LX4L.jpg" width="120px"/>
+
+This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking’ series of eBooks. In this series, we will thoroughly define blockchain and see it in action, we’ll see how ‘blockchain’ could be leveraged to enhance the technologies that exist in the Data Networking: i.e. LAN and WAN technologies.
 
 ### [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view) *Download*
 
