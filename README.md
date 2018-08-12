@@ -172,11 +172,23 @@ Bitcoin has traditionally been the payment system of choice for a criminal tradi
 
 Bitcoin is arguably one of the biggest developments in finance since the advent of fiat currency. With Understanding Bitcoin, expert author Pedro Franco provides finance professionals with a complete technical guide and resource to the cryptography, engineering and economic development of Bitcoin and other cryptocurrencies. This comprehensive, yet accessible work fully explores the supporting economic realities and technological advances of Bitcoin, and presents positive and negative arguments from various economic schools regarding its continued viability.
 
+### [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view) *Download*
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51gAisJ-ZNL.jpg" width="120px"/>
+
+With the rise of bitcoin and blockchain technology, investors can capitalize on the greatest investment opportunity since the Internet. Bitcoin was the first cryptoasset, but today there are over 800 and counting, including ether, ripple, litecoin, monero, and more. This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world―and how to invest in these emerging assets to secure your financial future.
+
 ### [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view) *Download*
 
 <img src="https://html2-f.scribdassets.com/5qehea33eo5ypl28/images/1-fd2573e944.jpg" width="120px"/>
 
 This book answers the questions about "What does it mean to mine a cryptocurrency such as Ethereum?", "How to mine with a graphics card (GPU)?", "How to start your GPU mining business with only $100", "How to deal with generated heat from a GPU mining rig and how to extend the life of the components?", and "How much money does a GPU mining rig make?". It helps you to "Choose the best GPU for mining Ethereum platform". In short it is "A complete step-by-step guide to the hardware and software for building a GPU mining rig."
+
+### [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view) *Download*
+
+<img src="https://images.gr-assets.com/books/1497902570l/35480869.jpg" width="120px"/>
+
+Technology is changing money and this book looks at where it might be taking us. Technology has transformed money from physical objects to intangible information. With the arrival of smart cards, mobile phones and Bitcoin it has become easier than ever to create new forms of money. Crucially, money is also inextricably connected with our identities. Your card or phone is a security device that can identify you - and link information about you to your money.
 
 ### [Bitcoin for Nonmathematicians (2016)](https://drive.google.com/file/d/1-QXv47ldCCxMWRijhEa8NWjG_FmohVeF/view) *Download*
 
@@ -189,18 +201,6 @@ It's thoughtless to start using something you don't trust. It's difficult to sta
 <img src="https://images.gr-assets.com/books/1418766871l/20578310.jpg" width="120px"/>
 
 Unless you’ve been living under a rock for the last couple of years, you’ve probably heard of Bitcoin—the game-changing digital currency used by millions worldwide. But Bitcoin isn't just another way to buy stuff. It’s an anonymous, revolutionary, cryptographically secure currency that functions without the oversight of a central authority or government. If you want to get into the Bitcoin game but find yourself a little confused, Bitcoin for the ­Befuddled may be just what you’re looking for. Learn what Bitcoin is; how it works; and how to acquire, store, and spend bitcoins safely and securely.
-
-### [Before Babylon, Beyond Bitcoin (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxMWxxRjl2alNvNW8/view) *Download*
-
-<img src="https://images.gr-assets.com/books/1497902570l/35480869.jpg" width="120px"/>
-
-Technology is changing money and this book looks at where it might be taking us. Technology has transformed money from physical objects to intangible information. With the arrival of smart cards, mobile phones and Bitcoin it has become easier than ever to create new forms of money. Crucially, money is also inextricably connected with our identities. Your card or phone is a security device that can identify you - and link information about you to your money.
-
-### [Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond (2017)](https://drive.google.com/file/d/0B81TNkQfgbpEdlVYWVZMMEY3S0U/view) *Download*
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51gAisJ-ZNL.jpg" width="120px"/>
-
-With the rise of bitcoin and blockchain technology, investors can capitalize on the greatest investment opportunity since the Internet. Bitcoin was the first cryptoasset, but today there are over 800 and counting, including ether, ripple, litecoin, monero, and more. This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world―and how to invest in these emerging assets to secure your financial future.
 
 
 **Documentations**
