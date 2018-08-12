@@ -71,6 +71,12 @@ Learn how to take your existing knowledge of Ethereum and Solidity to the next l
 
 Solidity is a contract-oriented language whose syntax is highly influenced by JavaScript, and is designed to compile code for the Ethereum Virtual Machine. Solidity Programming Essentials will be your guide to understanding Solidity programming to build smart contracts for Ethereum and blockchain from ground-up.
 
+### [Truffle Quick Start Guide (2018)](https://drive.google.com/file/d/1DbGswXn6wm3ywhgnd8WH7iTJDgq2UzLo/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B10495_newcover.png" width="120px"/>
+
+Truffle is a world-class development environment, testing framework and asset pipeline for Ethereum, aiming to make life as an Ethereum developer easier. If you are a web developer wanting to try your hand at developing Dapps with Truffle, then this is the book for you. This book will teach you to write smart contracts and build Dapps with Truffle. You will begin with covering the basics of Truffle, briefly explaining how it integrates Solidity and Web3, in orderto start building a mini decentralized application. Also, you will dive into migration, testing and integrating Truffle with the use of popular JavaScript frameworks. Lastly, you will ship your decentralized application and package it into a product. Moreover, you will go through the best practices in Truffle,so as to increase your proficiency in building Dapps with Truffle.
+
 ### [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view) *Download*
 
 <img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05955.png" width="120px"/>
