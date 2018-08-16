@@ -49,6 +49,12 @@ Bitcoin is starting to come into its own as a digital currency, but the blockcha
 
 This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking’ series of eBooks. In this series, we will thoroughly define blockchain and see it in action, we’ll see how ‘blockchain’ could be leveraged to enhance the technologies that exist in the Data Networking: i.e. LAN and WAN technologies.
 
+### [IoT, AI, and Blockchain for .NET (2018)](https://drive.google.com/file/d/1Z1TUS5oApIl9fI7EPKcTP7N5_HDqlYly/view) *Download*
+
+<img src="https://images.springer.com/sgw/books/medium/9781484237083.jpg" width="120px"/>
+
+Create applications using Industry 4.0. Discover how artificial intelligence (AI) and machine learning (ML) capabilities can be enhanced using the Internet of things (IoT) and secured using Blockchain, so your latest app can be not just smarter but also more connected and more secure than ever before. This book covers the latest easy-to-use APIs and services from Microsoft, including Azure IoT, Cognitive Services APIs, Blockchain as a Service (BaaS), and Machine Learning Studio.
+
 ### [Blockchain Basics: A Non-Technical Introduction in 25 Steps (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxNTZMaV9LUUpJdFU/view) *Download*
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51BaGHVPe5L.jpg" width="120px"/>
