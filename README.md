@@ -131,6 +131,12 @@ Learn how to use Solidity and the Ethereum project – second only to Bitcoin in
 
 Take advantage of Bitcoin’s underlying technology, the blockchain, to build massively scalable, decentralized applications known as dapps. In this practical guide, author Siraj Raval explains why dapps will become more widely used—and profitable—than today’s most popular web apps. You’ll learn how the blockchain’s cryptographically stored ledger, scarce-asset model, and peer-to-peer (P2P) technology provide a more flexible, better-incentivized structure than current software models.
 
+### [Build Your First Ethereum DApp (2018)](https://drive.google.com/file/d/1fZjylblTPfrnhwgfcW3LId8TL-bN4Od7/view) *Download*
+
+<img src="https://www.safaribooksonline.com/library/cover/9781492069263/360h/" width="120px"/>
+
+In this book we'll walk through the creation of a complete distributed application (DApp) based on the Ethereum platform. We'll be building The Neverending Story, a crowdsourced choose-your-own-adventure story with crowd curation and community censorship.
+
 ### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide) *Download*
 
 <img src="https://tr1.cbsistatic.com/hub/i/2018/03/01/effabfe7-dea5-4e50-a4da-afd7e10a0e76/wallpaper-frontier.jpg" width="120px"/>
