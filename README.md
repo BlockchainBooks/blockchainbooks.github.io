@@ -37,6 +37,12 @@ Since Bitcoin appeared in 2009, the digital currency has been hailed as an Inter
 
 Beginning Blockchain is a beginner’s guide to understanding the core concepts of Blockchain from a technical perspective. By learning the design constructs of different types of Blockchain, you will get a better understanding of building the best solution for specific use cases. The book covers the technical aspects of Blockchain technologies, cryptography, cryptocurrencies, and distributed consensus mechanisms. You will learn how these systems work and how to engineer them to design next-gen business solutions.
 
+### [Blockchain Quick Reference (2018)](https://drive.google.com/file/d/1X7K3QAUaTczrbZd_7lZ1J08D2NHGlA_d/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/9781788995788.png" width="120px"/>
+
+Blockchain Quick Reference takes you through the electrifying world of blockchain technology and is designed for those who want to polish their existing knowledge regarding the various pillars of the blockchain ecosystem.
+
 ### [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view) *Download*
 
 <img src="https://covers.oreillystatic.com/images/0636920037040/lrg.jpg" width="120px"/>
