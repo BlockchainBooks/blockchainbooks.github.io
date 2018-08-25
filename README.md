@@ -137,6 +137,12 @@ Take advantage of Bitcoin’s underlying technology, the blockchain, to build ma
 
 In this book we'll walk through the creation of a complete distributed application (DApp) based on the Ethereum platform. We'll be building The Neverending Story, a crowdsourced choose-your-own-adventure story with crowd curation and community censorship.
 
+### [Learn Ethereum: The Collection (2018)](https://drive.google.com/file/d/11Cte3y1NqXVgkVP5v2QiFREVulX4P19T/view) *Download*
+
+<img src="https://d2ql0oya2738vd.cloudfront.net/products/9781492069317/covers/9781492069317-bookshelf.jpg" width="120px"/>
+
+Blockchain technology has certainly been hyped over the past few years, but when you strip all of that away, what can actually do with it? This book provides you with an introduction to Ethereum, an open source platform that’s based based on blockchain. It enables developers to build and deploy decentralized applications that can be relied on to work without fraud, censorship or interference from third parties. Far more than just a cryptocurrency or smart contracts platform, Ethereum is becoming an entire ecosystem for building decentralized applications.
+
 ### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide) *Download*
 
 <img src="https://tr1.cbsistatic.com/hub/i/2018/03/01/effabfe7-dea5-4e50-a4da-afd7e10a0e76/wallpaper-frontier.jpg" width="120px"/>
